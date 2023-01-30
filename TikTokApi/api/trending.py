@@ -32,12 +32,16 @@ class Trending:
         processed = Trending.parent._process_kwargs(kwargs)
         kwargs["custom_device_id"] = processed.device_id
 
-        spawn = requests.head(
+        spawn = requests.get(
             "https://www.tiktok.com",
             proxies=Trending.parent._format_proxy(processed.proxy),
             **Trending.parent._requests_extra_kwargs,
+            headers={
+                'User-Agent': "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+            }
         )
-        ttwid = spawn.cookies["ttwid"]
+        print("spawn",spawn)
+        ttwid = spawn.cookies.get_dict()["ttwid"]
 
         first = True
         amount_yielded = 0

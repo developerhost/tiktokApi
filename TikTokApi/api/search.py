@@ -82,6 +82,7 @@ class Search:
             proxies=Search.parent._format_proxy(processed.proxy),
             **Search.parent._requests_extra_kwargs
         )
+        print("spawn",spawn)
         ttwid = spawn.cookies["ttwid"]
 
         # For some reason when <= it can be off by one.
