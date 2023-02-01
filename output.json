@@ -1,0 +1,170 @@
+{
+  "extra": {
+      "fatal_item_ids": [],
+      "logid": "2023013014394078BB806DD480BB0D0719",
+      "now": 1675089581000
+  },
+  "itemInfo": {
+      "itemStruct": {
+          "author": {
+              "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/a44112e9c8b586bceb57f3a17c2d532e.jpeg?x-expires=1675260000&x-signature=Nm2GnkjigA5oLYCABhU70G5dy9k%3D",
+              "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/a44112e9c8b586bceb57f3a17c2d532e.jpeg?x-expires=1675260000&x-signature=mXYSeFnXIqZj33ufzHIrxEGdpEs%3D",
+              "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/a44112e9c8b586bceb57f3a17c2d532e.jpeg?x-expires=1675260000&x-signature=1lx5LUioM2mmLm8ATAwrYaSLq9k%3D",
+              "commentSetting": 0,
+              "duetSetting": 0,
+              "ftc": False,
+              "id": "6552310966527737858",
+              "isADVirtual": False,
+              "nickname": "ゆうり@骨延長ホスト",
+              "openFavorite": False,
+              "privateAccount": False,
+              "relation": 0,
+              "secUid": "MS4wLjABAAAAZX5cUCs8kVVN93uaqPGXn-QJAov8K-rLztzZCxjqHAGUEHLScAFOnR05QYrMynJ9",
+              "secret": False,
+              "signature": "会えます。\nインスタフォロー返すからフォローしてね。\n本気で人生変えます。反撃開始。\nインスタにDMください\nライブ配信で裏側話してるよ",
+              "stitchSetting": 0,
+              "uniqueId": "yuri_glitter_comp",
+              "verified": False
+          },
+          "challenges": [{
+              "coverLarger": "",
+              "coverMedium": "",
+              "coverThumb": "",
+              "desc": "",
+              "id": "1628274814232578",
+              "profileLarger": "",
+              "profileMedium": "",
+              "profileThumb": "",
+              "title": "ホストあるある"
+          }, {
+              "coverLarger": "",
+              "coverMedium": "",
+              "coverThumb": "",
+              "desc": "",
+              "id": "76675614",
+              "profileLarger": "",
+              "profileMedium": "",
+              "profileThumb": "",
+              "title": "整形"
+          }, {
+              "coverLarger": "",
+              "coverMedium": "",
+              "coverThumb": "",
+              "desc": "",
+              "id": "5456468",
+              "profileLarger": "",
+              "profileMedium": "",
+              "profileThumb": "",
+              "title": "ホスト"
+          }],
+          "createTime": 1671787877,
+          "desc": "骨延長手術の記録#整形 #ホスト #ホストあるある ",
+          "digged": False,
+          "duetDisplay": 0,
+          "duetEnabled": True,
+          "forFriend": False,
+          "id": "7180274228422282497",
+          "itemCommentStatus": 0,
+          "music": {
+              "authorName": "ゆうり@骨延長ホスト",
+              "coverLarge": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/a44112e9c8b586bceb57f3a17c2d532e.jpeg?x-expires=1675260000&x-signature=Nm2GnkjigA5oLYCABhU70G5dy9k%3D",
+              "coverMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/a44112e9c8b586bceb57f3a17c2d532e.jpeg?x-expires=1675260000&x-signature=mXYSeFnXIqZj33ufzHIrxEGdpEs%3D",
+              "coverThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/a44112e9c8b586bceb57f3a17c2d532e.jpeg?x-expires=1675260000&x-signature=1lx5LUioM2mmLm8ATAwrYaSLq9k%3D",
+              "duration": 54,
+              "id": "7180274238425795330",
+              "original": False,
+              "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7180274226279107329.mp3",
+              "title": "オリジナル楽曲 - ゆうり@骨延長ホスト"
+          },
+          "officalItem": False,
+          "originalItem": False,
+          "privateItem": False,
+          "secret": False,
+          "shareEnabled": True,
+          "stats": {
+              "commentCount": 1270,
+              "diggCount": 109900,
+              "playCount": 3900000,
+              "shareCount": 653
+          },
+          "stitchDisplay": 0,
+          "stitchEnabled": True,
+          "textExtra": [{
+              "awemeId": "",
+              "end": 11,
+              "hashtagId": "76675614",
+              "hashtagName": "整形",
+              "isCommerce": False,
+              "start": 8,
+              "subType": 0,
+              "type": 1
+          }, {
+              "awemeId": "",
+              "end": 16,
+              "hashtagId": "5456468",
+              "hashtagName": "ホスト",
+              "isCommerce": False,
+              "start": 12,
+              "subType": 0,
+              "type": 1
+          }, {
+              "awemeId": "",
+              "end": 25,
+              "hashtagId": "1628274814232578",
+              "hashtagName": "ホストあるある",
+              "isCommerce": False,
+              "start": 17,
+              "subType": 0,
+              "type": 1
+          }],
+          "video": {
+              "bitrate": 1296321,
+              "bitrateInfo": [{
+                  "Bitrate": 1296321,
+                  "CodecType": "h264",
+                  "GearName": "normal_720_0",
+                  "PlayAddr": {
+                      "DataSize": 8796674,
+                      "FileCs": "c:0-60246-fd18",
+                      "FileHash": "837cf1eef77d5712d17957a6b5c3fef8",
+                      "Uri": "v10025g50000cein95rc77u58ivbmt70",
+                      "UrlKey": "v10025g50000cein95rc77u58ivbmt70_h264_720p_1296321",
+                      "UrlList": ["https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/owtxK7K6BXz06zbhiifpLIY2AOILUwAFrdQoRA/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2530&bt=1265&cs=0&ds=3&ft=4fUEKMwF8Zmo0UlB764jV5CMZpWrKsdm&mime_type=video_mp4&qs=0&rc=NjZmaDQ0aTlnNjo8aWdpZ0BpM3dlbDg6ZjhxaDMzODgzNEAvNjA0NjVjNWMxYjZgMTMvYSM0anM1cjRvNmZgLS1kLy1zcw%3D%3D&btag=80000&expire=1675111235&l=2023013014394078BB806DD480BB0D0719&ply_type=2&policy=2&signature=db5d0ec41cb8fb2d7c91365bd477ee6d&tk=tt_chain_token", "https://v19-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/owtxK7K6BXz06zbhiifpLIY2AOILUwAFrdQoRA/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2530&bt=1265&cs=0&ds=3&ft=4fUEKMwF8Zmo0UlB764jV5CMZpWrKsdm&mime_type=video_mp4&qs=0&rc=NjZmaDQ0aTlnNjo8aWdpZ0BpM3dlbDg6ZjhxaDMzODgzNEAvNjA0NjVjNWMxYjZgMTMvYSM0anM1cjRvNmZgLS1kLy1zcw%3D%3D&btag=80000&expire=1675111235&l=2023013014394078BB806DD480BB0D0719&ply_type=2&policy=2&signature=db5d0ec41cb8fb2d7c91365bd477ee6d&tk=tt_chain_token"]
+                  },
+                  "QualityType": 10
+              }],
+              "codecType": "h264",
+              "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/oEOKF0hK6wRSNloWBLpLdKwEztA7fABd7APxrI?x-expires=1675108800&x-signature=dgO%2Btgfb6xfucAXrdfOm7onxwxc%3D",
+              "definition": "720p",
+              "downloadAddr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/owtxK7K6BXz06zbhiifpLIY2AOILUwAFrdQoRA/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2530&bt=1265&cs=0&ds=3&ft=4fUEKMwF8Zmo0UlB764jV5CMZpWrKsdm&mime_type=video_mp4&qs=0&rc=NjZmaDQ0aTlnNjo8aWdpZ0BpM3dlbDg6ZjhxaDMzODgzNEAvNjA0NjVjNWMxYjZgMTMvYSM0anM1cjRvNmZgLS1kLy1zcw%3D%3D&btag=80000&expire=1675111235&l=2023013014394078BB806DD480BB0D0719&ply_type=2&policy=2&signature=db5d0ec41cb8fb2d7c91365bd477ee6d&tk=tt_chain_token",
+              "duration": 54,
+              "dynamicCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/b9a7e292239346aeb0ce830f42c74cf4_1671787893?x-expires=1675108800&x-signature=dQNrhvcUzLu5Nh0QymTtxgxl0KY%3D",
+              "encodeUserTag": "",
+              "encodedType": "normal",
+              "format": "mp4",
+              "height": 1024,
+              "id": "7180274228422282497",
+              "originCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/e5664400c94a445b8a2280eafe3c6d75_1671787891?x-expires=1675108800&x-signature=YvzApYeNVnsFPRDlmixIcqbblzc%3D",
+              "playAddr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/owtxK7K6BXz06zbhiifpLIY2AOILUwAFrdQoRA/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2530&bt=1265&cs=0&ds=3&ft=4fUEKMwF8Zmo0UlB764jV5CMZpWrKsdm&mime_type=video_mp4&qs=0&rc=NjZmaDQ0aTlnNjo8aWdpZ0BpM3dlbDg6ZjhxaDMzODgzNEAvNjA0NjVjNWMxYjZgMTMvYSM0anM1cjRvNmZgLS1kLy1zcw%3D%3D&btag=80000&expire=1675111235&l=2023013014394078BB806DD480BB0D0719&ply_type=2&policy=2&signature=db5d0ec41cb8fb2d7c91365bd477ee6d&tk=tt_chain_token",
+              "ratio": "720p",
+              "videoQuality": "normal",
+              "volumeInfo": {
+                  "Loudness": -10.8,
+                  "Peak": 1
+              },
+              "width": 576,
+              "zoomCover": {
+                  "240": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oEOKF0hK6wRSNloWBLpLdKwEztA7fABd7APxrI~tplv-efzqqlc8t1-1:240:240.jpeg?x-expires=1675108800&x-signature=QhMEJrUgWgF%2FomAuDqcPPLYJO9Y%3D",
+                  "480": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oEOKF0hK6wRSNloWBLpLdKwEztA7fABd7APxrI~tplv-efzqqlc8t1-1:480:480.jpeg?x-expires=1675108800&x-signature=mjvJ2rP9GHALyzamQY8pFpN7jfM%3D",
+                  "720": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oEOKF0hK6wRSNloWBLpLdKwEztA7fABd7APxrI~tplv-efzqqlc8t1-1:720:720.jpeg?x-expires=1675108800&x-signature=94l%2FJuPck1BNa51yreZ2XySS4PA%3D",
+                  "960": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oEOKF0hK6wRSNloWBLpLdKwEztA7fABd7APxrI~tplv-efzqqlc8t1-1:960:960.jpeg?x-expires=1675108800&x-signature=7kN3d5%2FTHqB5lVxYgU4oZGnFsHE%3D"
+              }
+          }
+      }
+  },
+  "log_pb": {
+      "impr_id": "2023013014394078BB806DD480BB0D0719"
+  },
+  "statusCode": 0,
+  "status_code": 0
+}
